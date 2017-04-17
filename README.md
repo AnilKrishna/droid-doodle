@@ -1,8 +1,9 @@
 # Droid Doodle
 An android doodle/drawing application to facilitate freehand drawing over the canvas with options of playing around with different  background colors, paint colors to create a doodle. The app also has an option to save the created doodle to the gallery and also set it as a wallpaper.
 
-#### App Screen Shot
-https://drive.google.com/open?id=0B7g5hJ3QPSoXdE0xZm1BTjQwcEE
+#### A Sample Doodle Screen Shot
+<img src="https://cloud.githubusercontent.com/assets/1758299/25078794/cd2d7fa0-2379-11e7-9d65-25e6ece23e14.jpg" width="400" height="600" />
+
 
 ### Environments
 Built for Android Jelly Bean 4.1 and Above OS.
