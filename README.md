@@ -5,16 +5,16 @@ An android doodle/drawing application to facilitate freehand drawing over the ca
 <img src="https://cloud.githubusercontent.com/assets/1758299/25078794/cd2d7fa0-2379-11e7-9d65-25e6ece23e14.jpg" width="400" height="600" />
 
 
-### Environments
+## Environments
 Built for Android Jelly Bean 4.1 and Above OS.
 
-### System Dependencies & Configuration
+## System Dependencies & Configuration
 Android Studio 2.2.3 running on MAC or Windows.
 
-### Operating Instructions
+## Operating Instructions
 Import the repository in Android Studio. Build and Run the project.
 
-### Testing Instructions
+## Testing Instructions
 Consists of Junit and Mockito unit test suite covering major functionalities of the app inside the test folder of the project.
 
 ## Overview
